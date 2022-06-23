@@ -8,11 +8,11 @@
      element.parentElement.removeChild(element);
   ```
   
-  This is a self-signed extension. It may not install on your browser. If there's enough interest I might put it in the various extension stores. 
+  This is a self-signed extension. It may not install on your browser.
 
 ## Installation
 
-  Download the extension from the releases section for your browser:
+  Download the extension from the releases section for your browser, and follow the instructions for your browser for installing self-signed extensions.
 
   * Firefox: [https://github.com/dvydra/deletefitechat/releases/download/v1.0/deletefitechat.xpi]
   * Edge/Chrome: [https://github.com/dvydra/deletefitechat/releases/download/v1.0/deletefitechat.crx]
