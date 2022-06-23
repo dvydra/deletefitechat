@@ -12,11 +12,7 @@
 
 ## Installation
 
-  Download the extension from the releases section for your browser, and follow the instructions for your browser for installing self-signed extensions.
-
-  * [Firefox](https://github.com/dvydra/deletefitechat/releases/download/v1.1/deletefitechat.xpi)
-  * [Chrome / Edge](https://github.com/dvydra/deletefitechat/releases/download/v1.1/deletefitechat.crx)
-  
+  Download the source and follow your browser's instructions for installing unpacked extensions. 
 
 
 ## License
